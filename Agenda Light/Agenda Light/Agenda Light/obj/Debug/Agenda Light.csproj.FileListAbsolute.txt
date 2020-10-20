@@ -1,0 +1,23 @@
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\bin\Debug\Agenda Light.exe.config
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\bin\Debug\Agenda Light.exe
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\bin\Debug\Agenda Light.pdb
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda Light.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Form1.resources
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Properties.Resources.resources
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda Light.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda Light.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda Light.exe
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda Light.pdb
+C:\Users\vitor\source\repos\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Agenda.resources
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\bin\Debug\Agenda Light.exe.config
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\bin\Debug\Agenda Light.exe
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\bin\Debug\Agenda Light.pdb
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda Light.csprojAssemblyReference.cache
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Agenda.resources
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Form1.resources
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda_Light.Properties.Resources.resources
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda Light.csproj.GenerateResource.cache
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda Light.exe
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\obj\Debug\Agenda Light.pdb
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\bin\Debug\AgendaDB.mdf
+D:\Users\3821145\Downloads\Agenda Light\Agenda Light\Agenda Light\bin\Debug\AgendaDB_log.ldf
